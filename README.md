@@ -5,7 +5,8 @@
 - 🔭 I am interested in monolithic web projects and micro service architecture.
 - 🌱 I prefer modern technology stack
 - 🤔 I am responsible, work hard and constantly learning and growing. I can create new ideas.
-- 📫 My email: ivankurban1986@gmail.com
+- 📫 ivankurban1986@gmail.com
+- 🔗 linkedin.com/in/ivan-kurban-3b826a115
 
 <h2>My stack:</h2>
 
